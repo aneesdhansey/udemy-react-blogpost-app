@@ -1,18 +1,18 @@
 {
-  "name": "webpack-heroku-boilerplate",
+  "name": "udemy-react-blogpost-app",
   "version": "1.0.0",
-  "description": "Heroku deployable boilerplate for React-Redux-Webpack app.",
+  "description": "Udemy React Blogpost App",
   "main": "./src/entry.js",
-  "homepage": "https://github.com/aneesdhansey/my-react-redux-starter-app",
+  "homepage": "https://github.com/aneesdhansey/udemy-react-blogpost-app",
   "author": "Anees Dhansey",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "postinstall": "webpack --config ./webpack.config.js --progress --colors",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aneesdhansey/my-react-redux-starter-app.git"
+    "url": "git+https://github.com/aneesdhansey/udemy-react-blogpost-app.git"
   },
   "keywords": [
     "react",
