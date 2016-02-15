@@ -1,2 +1,2 @@
 
-Boilerplate react-redux-app ready for heroku deployment
+Udemy React Blogpost App
